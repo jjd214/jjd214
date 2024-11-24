@@ -40,6 +40,7 @@
   <a href="#"> <img alt="Livewire" src="https://custom-icon-badges.demolab.com/badge/-Livewire-3AB7F7?logo=livewire&logoColor=white"> </a>
   <a href="#"> <img alt="Alpine.js" src="https://img.shields.io/badge/Alpine.js-8BC0D0.svg?logo=alpine.js&logoColor=white"> </a>
   <a href="#"> <img alt="Bootstrap" src="https://custom-icon-badges.demolab.com/badge/-Bootstrap-7710F1?logo=bootstrap&logoColor=white"> </a>
+  <a href="#"> <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?logo=tailwindcss&logoColor=white"> </a>
 </p>
 
 <h3 align="left">Database:</h3>
@@ -70,11 +71,12 @@ You can click the Preview link to take a look at your changes.
 --->
 Looking forward to connecting with fellow developers and learning together! 🚀
 
-
+<!--
 <h2>Stats and Activities</h2>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jjd214&theme=jolly&show_icons=true&locale=en&layout=compact" alt="jjd214" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jjd214&theme=jolly&show_icons=true&locale=en" alt="jjd214" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jjd214&theme=jolly" alt="jjd214" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jjd214&theme=jolly" alt="jjd214" /></p> -->
+
 
 
 
