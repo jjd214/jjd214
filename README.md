@@ -1,7 +1,24 @@
 <h1 align="center">Hi 👋, I'm John Jacob Dimaya</h1>
-<h2 align="center">A passionate Full-Stack Developer from the Philippines</h2>
+<p align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Azeret+Mono&pause=1000&color=FF64DA&center=true&width=435&lines=Fullstack+Web+Developer" alt="Typing SVG" /></a>
+</p>
 <p align="center">
   I'm a passionate and dedicated Full-Stack Developer with a strong background in Laravel and its ecosystem. I thrive on creating innovative and efficient solutions to complex problems. My expertise spans from front-end technologies like Livewire, Alpine.js, and Vue.js to back-end development with Laravel, PHP, and RESTful APIs. I'm also well-versed in version control using Git and have a strong foundation in database management with MySQL. Let's collaborate and build amazing software together!
+</p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+    <p align="left">
+        <a href="https://stackoverflow.com/users/28459549/john-jacob-ruiz">
+          <img alt="StackOverflow" src="https://custom-icon-badges.demolab.com/badge/-StackOverflow-E87922.svg?logo=stackoverflow&logoColor=white">
+        </a>
+        <a href="https://www.behance.net/johnjacobdimaya">
+          <img alt="Behance" src="https://custom-icon-badges.demolab.com/badge/-Behance-0053F2.svg?logo=behance&logoColor=white">
+        </a>
+        <a href="https://www.linkedin.com/in/john-jacob-dimaya-46405033a/">
+          <img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-0A66C2.svg?logo=linkedin&logoColor=white">
+        </a>
+      </p>
 </p>
 
 <h3 align="left">Programming & Markup Languages:</h3>
@@ -41,7 +58,7 @@
   <a href="#"> <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white"> </a>
 </p>
 
-🌱 I'm currently learning and expanding my skills in HTML, CSS, JavaScript, and diving into the exciting realm of responsive web design.
+🌱 I'm currently learning and expanding my skills in frontend design, including JavaScript libraries, and exploring the exciting realm of responsive web design.
 
 💞️ I'm looking to collaborate on open-source projects that involve innovative web solutions or contribute to projects that align with my interests in user experience and interface design.
 
