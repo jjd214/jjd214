@@ -38,6 +38,8 @@
 
 <h3 align="left">Frameworks & Libraries:</h3>
 <p>
+  <a href="#"> <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20.svg?logo=laravel&logoColor=white"> </a>
+  <a href="#"> <img alt="CodeIgniter" src="https://img.shields.io/badge/CodeIgniter-EF4223.svg?logo=codeigniter&logoColor=white"> </a>
   <a href="#"> <img alt="jQuery" src="https://custom-icon-badges.demolab.com/badge/-jQuery-0863A2?logo=jquery&logoColor=white"> </a>
   <a href="#"> <img alt="React" src="https://custom-icon-badges.demolab.com/badge/-React-2A2C2E?logo=react&logoColor=5FD9FB"> </a>
   <a href="#"> <img alt="Vue" src="https://custom-icon-badges.demolab.com/badge/-Vue-41B883?logo=vue.js&logoColor=white"> </a>
