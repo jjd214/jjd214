@@ -90,34 +90,6 @@ Looking forward to connecting with fellow developers and learning together! 🚀
 </p>
 
 
-<p align="center">
-  <svg width="400" height="50" xmlns="http://www.w3.org/2000/svg">
-    <style>
-      .pacman { animation: move 3s linear infinite; }
-      @keyframes move {
-        0% { transform: translateX(0); }
-        100% { transform: translateX(300px); }
-      }
-      .mouth { animation: chomping 0.3s linear infinite; }
-      @keyframes chomping {
-        0%, 100% { d: path("M25 25 L45 15 L45 35 Z"); }
-        50% { d: path("M25 25 L35 20 L35 30 Z"); }
-      }
-    </style>
-    <!-- Pac-Man -->
-    <g class="pacman">
-      <circle cx="25" cy="25" r="20" fill="yellow" />
-      <path class="mouth" d="M25 25 L45 15 L45 35 Z" fill="black" />
-    </g>
-    <!-- Dots -->
-    <circle cx="70" cy="25" r="5" fill="blue" />
-    <circle cx="100" cy="25" r="5" fill="blue" />
-    <circle cx="130" cy="25" r="5" fill="blue" />
-    <circle cx="160" cy="25" r="5" fill="blue" />
-    <circle cx="190" cy="25" r="5" fill="blue" />
-  </svg>
-</p>
-
 
 
 
