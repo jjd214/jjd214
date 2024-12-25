@@ -28,8 +28,17 @@
 
 <h3 align="left">Frameworks & Libraries:</h3>
 <p>
-    <img src="https://skillicons.dev/icons?i=laravel,codeigniter,react,vue,livewire,alpinejs,bootstrap,tailwind" alt="Frameworks & Libraries">
+  <a href="#"> <img alt="Laravel" src="https://skillicons.dev/icons?i=laravel" /> </a>
+  <a href="#"> <img alt="CodeIgniter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain-wordmark.svg" width="48" height="48" /> </a>
+  <a href="#"> <img alt="jQuery" src="https://skillicons.dev/icons?i=jquery" /> </a>
+  <a href="#"> <img alt="React" src="https://skillicons.dev/icons?i=react" /> </a>
+  <a href="#"> <img alt="Vue" src="https://skillicons.dev/icons?i=vue" /> </a>
+  <a href="#"> <img alt="Livewire" src="https://custom-icon-badges.demolab.com/badge/-Livewire-3AB7F7?logo=livewire&logoColor=white" /> </a>
+  <a href="#"> <img alt="Alpine.js" src="https://skillicons.dev/icons?i=alpinejs" /> </a>
+  <a href="#"> <img alt="Bootstrap" src="https://skillicons.dev/icons?i=bootstrap" /> </a>
+  <a href="#"> <img alt="Tailwind CSS" src="https://skillicons.dev/icons?i=tailwind" /> </a>
 </p>
+
 
 <h3 align="left">Database:</h3>
 <p>
