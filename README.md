@@ -26,14 +26,16 @@
 
 <h3 align="left">Programming & Markup Languages:</h3>
 <p>
+  <a href="#"> <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"> </a>
   <a href="#"> <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-yellow.svg?logo=javascript&logoColor=white"> </a>
   <a href="#"> <img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"> </a>
   <a href="#"> <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white"> </a>
-     <a href="#"> <img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"> </a>
+  <a href="#"> <img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"> </a>
   <a href="#"> <img alt="HTML5" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"> </a>
   <a href="#"> <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"> </a>
   <a href="#"> <img alt="SASS" src="https://img.shields.io/badge/SASS-CC6699.svg?logo=sass&logoColor=white"> </a>
 </p>
+
 
 <h3 align="left">Frameworks & Libraries:</h3>
 <p>
