@@ -74,14 +74,16 @@ You can click the Preview link to take a look at your changes.
 --->
 Looking forward to connecting with fellow developers and learning together! 🚀
 
-<h2>Github Stats: </h2>
-<p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jjd214&theme=dark&show_icons=true&locale=en&layout=compact" alt="jjd214" />
-</p>
-<p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jjd214&theme=dark&show_icons=true&locale=en" alt="jjd214" />
-</p>
-<p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jjd214&theme=dark" alt="jjd214" />
-</p>
+<h2>GitHub Stats</h2>
+<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
+    <div style="width: 50%;">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jjd214&theme=dark&show_icons=true&locale=en&layout=compact" alt="jjd214" />
+    </div>
+    <div style="width: 50%;">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=jjd214&theme=dark&show_icons=true&locale=en" alt="jjd214" />
+    </div>
+</div>
+<div style="margin-top: 20px; text-align: center;">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jjd214&theme=dark" alt="jjd214" style="width: 100%;" />
+</div>
 
