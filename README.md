@@ -76,7 +76,6 @@ Looking forward to connecting with fellow developers and learning together! 🚀
 
 <h2 align="center">GitHub Stats</h2>
 
-<div align="center">
   <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; width: 100%;">
     <!-- Most Used Languages Card -->
     <div style="flex: 1 1 50%; max-width: 50%; padding: 10px; box-sizing: border-box;">
@@ -87,7 +86,6 @@ Looking forward to connecting with fellow developers and learning together! 🚀
         <img src="https://github-readme-stats.vercel.app/api?username=jjd214&theme=dark&show_icons=true&locale=en" alt="GitHub Stats" style="width: 100%;" />
     </div>
   </div>
-</div>
 
 <!-- GitHub Contributions Streak -->
 <div style="margin-top: 20px;">
