@@ -1,87 +1,21 @@
-<h1 align="center">Hi 👋, I'm John Jacob Dimaya</h1>
-<p align="center">
-    <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Azeret+Mono&pause=1000&color=ADD8E6&center=true&width=435&lines=Backend+Web+Developer" alt="Typing SVG" />
-</a>
-</p>
-<p align="center">
-  I'm a passionate and dedicated Backend Developer with a strong background in Laravel and its ecosystem. I thrive on creating innovative and efficient solutions to complex problems. My expertise spans from front-end technologies like Livewire, Alpine.js, React.js, and Vue.js to back-end development with Laravel, PHP, and RESTful APIs. I'm also well-versed in version control using Git and have a strong foundation in database management with MySQL. Let's collaborate and build amazing software together!
-</p>
+# 💫 About Me:
+I'm a passionate and dedicated Backend Developer with a strong background in Laravel and its ecosystem. I thrive on creating innovative and efficient solutions to complex problems. My expertise spans from front-end technologies like Livewire, Alpine.js, React.js, and Vue.js to back-end development with Laravel, PHP, and RESTful APIs. I'm also well-versed in version control using Git and have a strong foundation in database management with MySQL. Let's collaborate and build amazing software together!<br><br>🔭 I’m currently working on building dynamic Web Applications<br><br>🌱 I’m currently learning Artificial Intelligence, Machine Learning etc...<br><br>👯 I’m looking to collaborate on Other Web Base Applications<br><br>💬 Ask me about Laravel<br><br>📫 How to reach me johnjacobdimaya0@gmail.com
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://stackoverflow.com/users/28459549/john-jacob-ruiz">
-      <img alt="StackOverflow" src="https://custom-icon-badges.demolab.com/badge/StackOverflow-E87922.svg?logo=stackoverflow&logoColor=white">
-    </a>
-    <a href="https://www.behance.net/johnjacobdimaya">
-      <img alt="Behance" src="https://custom-icon-badges.demolab.com/badge/Behance-0053F2.svg?logo=behance&logoColor=white">
-    </a>
-    <a href="https://www.linkedin.com/in/john-jacob-dimaya-46405033a/">
-      <img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2.svg?logo=linkedin&logoColor=white">
-    </a>
-</p>
 
-<h3 align="left">Programming & Markup Languages:</h3>
-<p>
-  <a href="#"> <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"> </a>
-  <a href="#"> <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-yellow.svg?logo=javascript&logoColor=white"> </a>
-  <a href="#"> <img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"> </a>
-  <a href="#"> <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white"> </a>
-  <a href="#"> <img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"> </a>
-  <a href="#"> <img alt="HTML5" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"> </a>
-  <a href="#"> <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"> </a>
-  <a href="#"> <img alt="SASS" src="https://img.shields.io/badge/SASS-CC6699.svg?logo=sass&logoColor=white"> </a>
-</p>
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Alpine.js](https://img.shields.io/badge/alpinejs-white.svg?style=for-the-badge&logo=alpinedotjs&logoColor=%238BC0D0) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Livewire](https://img.shields.io/badge/livewire-%234e56a6.svg?style=for-the-badge&logo=livewire&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=jjd214&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=jjd214&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jjd214&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<h3 align="left">Frameworks & Libraries:</h3>
-<p>
-  <a href="#"> <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20.svg?logo=laravel&logoColor=white"> </a>
-  <a href="#"> <img alt="CodeIgniter" src="https://img.shields.io/badge/CodeIgniter-EF4223.svg?logo=codeigniter&logoColor=white"> </a>
-  <a href="#"> <img alt="jQuery" src="https://custom-icon-badges.demolab.com/badge/jQuery-0863A2?logo=jquery&logoColor=white"> </a>
-  <a href="#"> <img alt="React" src="https://custom-icon-badges.demolab.com/badge/React-2A2C2E?logo=react&logoColor=5FD9FB"> </a>
-  <a href="#"> <img alt="Vue" src="https://custom-icon-badges.demolab.com/badge/Vue-41B883?logo=vue.js&logoColor=white"> </a>
-  <a href="#"> <img alt="Livewire" src="https://custom-icon-badges.demolab.com/badge/Livewire-3AB7F7?logo=livewire&logoColor=white"> </a>
-  <a href="#"> <img alt="Alpine.js" src="https://img.shields.io/badge/Alpine.js-8BC0D0.svg?logo=alpine.js&logoColor=white"> </a>
-  <a href="#"> <img alt="Bootstrap" src="https://custom-icon-badges.demolab.com/badge/Bootstrap-7710F1?logo=bootstrap&logoColor=white"> </a>
-  <a href="#"> <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?logo=tailwindcss&logoColor=white"> </a>
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=jjd214&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<h3 align="left">Database:</h3>
-<p>
-  <a href="#"> <img alt="MySQL" src="https://custom-icon-badges.demolab.com/badge/MySQL-42759C?logo=mysql&logoColor=white"> </a>
-  <a href="#"> <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57.svg?logo=sqlite&logoColor=white"> </a>
-</p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<h3 align="left">Software & Tools:</h3>
-<p>
-  <a href="#"> <img alt="Visual Studio Code" src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-39ADEB?logo=visualstudiocode&logoColor=white"> </a>
-  <a href="#"> <img alt="Visual Basic" src="https://custom-icon-badges.demolab.com/badge/Visual%20Basic-blueviolet?logo=visualstudio&logoColor=white"> </a>
-  <a href="#"> <img alt="Eclipse" src="https://custom-icon-badges.demolab.com/badge/Eclipse-2D8BE1?logo=eclipse&logoColor=white"> </a>
-  <a href="#"> <img alt="NetBeans" src="https://custom-icon-badges.demolab.com/badge/NetBeans-1B6AC6?logo=netbeans&logoColor=white"> </a>
-  <a href="#"> <img alt="Git" src="https://custom-icon-badges.demolab.com/badge/Git-E84D31?logo=git&logoColor=white"> </a>
-  <a href="#"> <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white"> </a>
-</p>
+---
+[![](https://visitcount.itsvg.in/api?id=jjd214&icon=0&color=0)](https://visitcount.itsvg.in)
 
-🌱 I'm currently learning and expanding my skills in frontend design, including JavaScript libraries, and exploring the exciting realm of responsive web design.
-
-💞️ I'm looking to collaborate on open-source projects that involve innovative web solutions or contribute to projects that align with my interests in user experience and interface design.
-
-📫 How to reach me: The best way to connect is through Facebook. Feel free to drop me a message or connect with me there.
-
-<!---
-jjd214/jjd214 is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-Looking forward to connecting with fellow developers and learning together! 🚀
-
-<h2>Github Stats: </h2>
-<p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jjd214&theme=dark&show_icons=true&locale=en&layout=compact" alt="jjd214" />
-</p>
-<p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jjd214&theme=dark&show_icons=true&locale=en" alt="jjd214" />
-</p>
-<p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jjd214&theme=dark" alt="jjd214" />
-</p>
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
