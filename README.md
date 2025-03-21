@@ -14,7 +14,7 @@ I'm a passionate and dedicated Web Developer with a strong background in Laravel
 
 # 📊 GitHub Stats:
 <div style="display: flex; flex-direction: row; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=jjd214&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" height="172" />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=jjd214&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" height="172" /> -->
   <img src="https://nirzak-streak-stats.vercel.app/?user=jjd214&theme=dark&hide_border=false" alt="Streak Stats" height="172" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjd214&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" height="172" />
 </div>
