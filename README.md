@@ -1,4 +1,4 @@
-# <p style="text-align: center;">Hi 👋, I'm John Jacob Dimaya</p>
+# <p align="center">Hi 👋, I'm John Jacob Dimaya</p>
 
 <h3 align="center">
     Fullstack Web Developer
