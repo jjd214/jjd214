@@ -1,7 +1,7 @@
 # <p align="center">Hi 👋, I'm John Jacob Dimaya</p>
 
 <h3 align="center">
-    Fullstack Web Developer
+    Fullstack Developer
 </h3>
 
 I'm a passionate and dedicated Web Developer with a strong background in Laravel and its ecosystem. I thrive on creating innovative and efficient solutions to complex problems. My expertise spans from front-end technologies like Livewire, Alpine.js, React.js, and Vue.js to back-end development with Laravel, PHP, and RESTful APIs. I'm also well-versed in version control using Git and have a strong foundation in database management with MySQL. Let's collaborate and build amazing software together!<br><br>
