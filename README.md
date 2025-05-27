@@ -11,7 +11,7 @@ I'm a passionate and dedicated Web Developer with a strong background in Laravel
 
 # 💻 Tech Stack:
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,javascript,bootstrap,tailwindcss,git,react,vue,laravel,django,flask,mysql,laragon,php,python,java,vscode,eclipse" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,javascript,bootstrap,tailwindcss,git,react,vue,laravel,django,flask,mysql,sqlite,php,python,java,vscode,eclipse" />
 </a>
 
 # 📊 GitHub Stats:
