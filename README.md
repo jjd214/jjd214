@@ -1,4 +1,4 @@
-# Hi 👋, I'm John Jacob Dimaya
+# <p align="center">Hi 👋, I'm John Jacob Dimaya</p>
 
 <h3 align="center">
     Fullstack Developer
@@ -11,7 +11,7 @@ I'm a passionate and dedicated Web Developer with a strong background in Laravel
 
 # 💻 Tech Stack:
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,javascript,bootstrap,tailwindcss,git,react,vue,laravel,django,mysql,php,python,jupyter,java" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,javascript,bootstrap,tailwindcss,git,react,vue,laravel,django,mysql,php,python,java" />
 </a>
 
 # 📊 GitHub Stats:
