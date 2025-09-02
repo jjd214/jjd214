@@ -11,7 +11,7 @@ Software Developer with nearly 3 years of hands-on experience in building and op
 
 # 💻 Tech Stack:
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=html,css,sass,javascript,bootstrap,tailwindcss,git,react,vue,laravel,django,mysql,sqlite,php,python,java,wordpress,dotnet,angular,vscode,eclipse,postman,github" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,javascript,bootstrap,tailwindcss,git,react,vue,laravel,django,mysql,sqlite,php,python,java,wordpress,dotnet,angular,cs,vscode,eclipse,postman,github" />
 </a>
 
 # 📊 GitHub Stats:
