@@ -14,6 +14,17 @@ Software Developer with nearly 3 years of hands-on experience in building and op
     <img src="https://skillicons.dev/icons?i=html,css,sass,javascript,bootstrap,tailwindcss,git,react,vue,laravel,django,mysql,sqlite,php,python,java,wordpress,dotnet,angular,cs,vscode,eclipse,postman,github" />
 </a>
 
+<!-- Trello -->
+<a href="https://trello.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" 
+         alt="Trello" width="48" height="48"/>
+</a>
+
+<!-- Jira -->
+<a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" 
+         alt="Jira" width="48" height="48"/>
+</a>
 # 📊 GitHub Stats:
 <div style="display: flex; flex-direction: row; gap: 10px;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jjd214&theme=dark&hide_border=false" alt="Streak Stats" height="180" />
