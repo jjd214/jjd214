@@ -6,7 +6,7 @@
 
 Dynamic Software Developer with hands-on experience in building and optimizing web applications. Skilled in creating custom solutions that enhance functionality, efficiency, and user experience. Contributed as a Software Developer intern at Xurpas Inc., gaining valuable exposure to client-focused development. Committed to writing clean, maintainable code and delivering innovative solutions that drive project success. Eager to apply expertise and adaptability to upcoming development opportunities.<br><br>
 ![](https://github-profile-trophy.vercel.app/?username=jjd214&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-<br><br>🔭 I'm currently working on building dynamic Web Applications<br><br>🌱 I'm currently learning Artificial Intelligence, Machine Learning etc...<br><br>👯 I'm looking to collaborate on Other Web Base Applications<br><br>💬 Ask me about Laravel<br><br>📫 How to reach me johnjacobdimaya0@gmail.com
+<br><br>🔭 I'm currently working on building dynamic Web Applications<br><br>🌱 I'm currently learning Artificial Intelligence, Machine Learning etc...<br><br>👯 I'm looking to collaborate on Other Web Base Applications<br><br> 📫 How to reach me johnjacobdimaya0@gmail.com
 
 
 # 💻 Tech Stack:
