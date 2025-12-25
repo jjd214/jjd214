@@ -12,7 +12,7 @@ Dynamic and proficient Junior Software Engineer with hands-on experience in buil
 
 # 💻 Tech Stack:
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,git,github,postman,php,java,cs,laravel,mysql,sqlite,vscode,eclipse,idea" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,laravel,git,github,postman,java,cs,php,mysql,vscode,idea,linux" />
 </a>
 
 ### ✍️ Random Dev Quote
