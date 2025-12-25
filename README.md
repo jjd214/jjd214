@@ -10,18 +10,10 @@ Dynamic and proficient Junior Software Engineer with hands-on experience in buil
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=jjd214)](https://github.com/ryo-ma/github-profile-trophy) -->
 <br><br>🔭 I'm currently working on building dynamic Web Applications<br><br>🌱 I'm currently learning Artificial Intelligence, Machine Learning etc...<br><br>👯 I'm looking to collaborate on Other Web Base Applications<br><br> 📫 How to reach me johnjacobdimaya0@gmail.com
 
-
 # 💻 Tech Stack:
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,sass,javascript,bootstrap,tailwindcss,git,react,typescript,vue,laravel,django,mysql,sqlite,php,python,java,wordpress,dotnet,angular,cs,vscode,eclipse,postman,github" />
 </a>
-
-# 📊 GitHub Stats:
-<div style="display: flex; flex-direction: row; gap: 10px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jjd214&theme=dark&hide_border=false" alt="Streak Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjd214&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" height="180" />
-</div>
-
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
