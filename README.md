@@ -18,8 +18,8 @@ Dynamic and proficient Junior Software Engineer with hands-on experience in buil
 
 # 📊 GitHub Stats:
 <div style="display: flex; flex-direction: row; gap: 10px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jjd214&theme=radical&hide_border=false" alt="Streak Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjd214&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jjd214&theme=tokyonight&hide_border=false" alt="Streak Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjd214&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" height="180" />
 </div>
 
 ### ✍️ Random Dev Quote
