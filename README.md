@@ -11,6 +11,7 @@ Dynamic and proficient Junior Software Engineer with hands-on experience in buil
 <br><br>🔭 I'm currently working on building dynamic Web Applications<br><br>🌱 I'm currently learning Artificial Intelligence, Machine Learning etc...<br><br>👯 I'm looking to collaborate on Other Web Base Applications<br><br> 📫 How to reach me johnjacobdimaya0@gmail.com
 
 
+
 # 💻 Tech Stack:
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,idea,java,php,postman,github,html,css,javascript,typescript,react,linux" />
