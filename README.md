@@ -6,7 +6,10 @@
 
 Dynamic and proficient Junior Software Engineer with hands-on experience in building and optimizing web applications. Fresh graduate with 1 year of experience, eager to contribute to team projects while continuously learning and growing. Passionate about writing clean, efficient, and maintainable code to solve real-world problems and deliver innovative solutions.<br><br>
 <!--[](https://github-profile-trophy.vercel.app/?username=jjd214&theme=radical&no-frame=false&no-bg=true&margin-w=4) -->
-![GitHub Trophies](https://github-trophies.vercel.app/?username=jjd214&title=Commit,Stars,Followers,Repositories,PullRequest,Experience,Issues,MergedPullRequest&row=1&column=8&margin-w=4&theme=onedark)
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=jjd214&title=Commit,Stars,Followers,Repositories,PullRequest,Experience,Issues,MergedPullRequest&row=1&column=8&margin-w=4&theme=onedark" />
+</p>
+
 
 
 
