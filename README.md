@@ -1,8 +1,8 @@
 # 👋 Hi, I'm John Jacob Dimaya
 
-### Software Engineer | Junior Backend & Web Developer
+### Software Engineer 
 
-Dynamic and proficient Junior Software Engineer with hands-on experience in building and optimizing web applications. Fresh graduate with 1 year of experience, eager to contribute to team projects while continuously learning and growing. Passionate about writing clean, efficient, and maintainable code to solve real-world problems and deliver innovative solutions.
+Junior Software Engineer specializing in web application development and optimization. Experienced in delivering clean, maintainable code and solving real-world problems. Motivated to collaborate on team projects and continuously grow in modern technologies.
 
 ---
 
@@ -37,7 +37,4 @@ Dynamic and proficient Junior Software Engineer with hands-on experience in buil
 
 ---
 
-## 🕹️ Visitors
-<p align="center">
-  [![](https://visitcount.itsvg.in/api?id=jjd214&icon=0&color=0)](https://visitcount.itsvg.in)
-</p>
+
