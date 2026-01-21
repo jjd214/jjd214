@@ -1,8 +1,17 @@
-# 👋 Hi, I'm John Jacob Dimaya
+<p align="center">
+  <!-- Your Name in Pokémon Font -->
+  <img src="https://fontmeme.com/permalink/260126/fdb0e0c3f1f5f2d7c3d8c1e7a7c3cfc0.png" alt="John Jacob Dimaya" />
+</p>
 
-### Software Engineer 
+<p align="center">
+  <!-- Role in Pokémon Font -->
+  <img src="https://fontmeme.com/permalink/260126/role-pokemon-font.png" alt="Software Engineer" />
+</p>
 
-Junior Software Engineer specializing in web application development and optimization. Experienced in delivering clean, maintainable code and solving real-world problems. Motivated to collaborate on team projects and continuously grow in modern technologies.
+<p align="center">
+  <!-- About Me Section in Pokémon Font -->
+  <img src="https://fontmeme.com/permalink/260126/about-me-pokemon.png" alt="About Me" />
+</p>
 
 ---
 
@@ -23,6 +32,10 @@ Junior Software Engineer specializing in web application development and optimiz
 ---
 
 ## 🎯 Current Focus
+<p align="center">
+  <img src="https://fontmeme.com/permalink/260126/current-focus-pokemon.png" alt="Current Focus" />
+</p>
+
 - 🔭 Building dynamic web applications  
 - 🌱 Learning Artificial Intelligence, Machine Learning, and modern frameworks  
 - 👯 Open to collaboration on web-based projects  
@@ -37,4 +50,7 @@ Junior Software Engineer specializing in web application development and optimiz
 
 ---
 
-
+## 🕹️ Visitors
+<p align="center">
+  [![](https://visitcount.itsvg.in/api?id=jjd214&icon=0&color=0)](https://visitcount.itsvg.in)
+</p>
