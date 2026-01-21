@@ -6,7 +6,7 @@
 
 Dynamic and proficient Junior Software Engineer with hands-on experience in building and optimizing web applications. Fresh graduate with 1 year of experience, eager to contribute to team projects while continuously learning and growing. Passionate about writing clean, efficient, and maintainable code to solve real-world problems and deliver innovative solutions.<br><br>
 <!--[](https://github-profile-trophy.vercel.app/?username=jjd214&theme=radical&no-frame=false&no-bg=true&margin-w=4) -->
-![](https://github-profile-trophy-tawny.vercel.app/?username=jjd214)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=jjd214)
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=jjd214)](https://github.com/ryo-ma/github-profile-trophy) -->
 <br><br>🔭 I'm currently working on building dynamic Web Applications<br><br>🌱 I'm currently learning Artificial Intelligence, Machine Learning etc...<br><br>👯 I'm looking to collaborate on Other Web Base Applications<br><br> 📫 How to reach me johnjacobdimaya0@gmail.com
 
@@ -15,7 +15,7 @@ Dynamic and proficient Junior Software Engineer with hands-on experience in buil
 
 # 💻 Tech Stack:
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,typescript,java,spring,postgres,postman,git,docker,linux" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,typescript,java,spring,hibernate,postgres,postman,git,docker,linux" />
 </a>
 
 ### ✍️ Random Dev Quote
